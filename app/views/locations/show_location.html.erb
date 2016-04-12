@@ -1,2 +1,4 @@
 <h2><%= @location.name %></h2>
+<p><%= @qr = RQRCode::QRCode.new("#{root_url}#{@location.tag}", size: 8)%></p>
+<p><%= raw @qr.as_html %></p>
 <p><%= @location.description %></p>
