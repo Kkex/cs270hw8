@@ -1,8 +1,8 @@
-#Name: Kyle Korsgaard, CS270, Assignment 5
+#Name: Kyle Korsgaard, CS270, Assignment 8
 
 #Partner: N/A
 
-#Description: In this project we set up our app controllers and views.
+#Description: In this project we set up the QR scan code using ruby gems and created the visit pipeline.
 
 #Input: N/A
 
